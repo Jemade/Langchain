@@ -1,0 +1,602 @@
+[
+  {
+    "request": {
+      "reference": "EVAL-delay-0",
+      "shipment_id": "SAMPLE-0",
+      "category": "delay",
+      "details": "Truck delayed; waiting for a carrier ETA. Sample shipment 0."
+    },
+    "source": "delay.md",
+    "required_phrase": "Do not promise"
+  },
+  {
+    "request": {
+      "reference": "EVAL-delay-1",
+      "shipment_id": "SAMPLE-1",
+      "category": "delay",
+      "details": "Truck delayed; waiting for a carrier ETA. Sample shipment 1."
+    },
+    "source": "delay.md",
+    "required_phrase": "Do not promise"
+  },
+  {
+    "request": {
+      "reference": "EVAL-delay-2",
+      "shipment_id": "SAMPLE-2",
+      "category": "delay",
+      "details": "Truck delayed; waiting for a carrier ETA. Sample shipment 2."
+    },
+    "source": "delay.md",
+    "required_phrase": "Do not promise"
+  },
+  {
+    "request": {
+      "reference": "EVAL-delay-3",
+      "shipment_id": "SAMPLE-3",
+      "category": "delay",
+      "details": "Truck delayed; waiting for a carrier ETA. Sample shipment 3."
+    },
+    "source": "delay.md",
+    "required_phrase": "Do not promise"
+  },
+  {
+    "request": {
+      "reference": "EVAL-delay-4",
+      "shipment_id": "SAMPLE-4",
+      "category": "delay",
+      "details": "Truck delayed; waiting for a carrier ETA. Sample shipment 4."
+    },
+    "source": "delay.md",
+    "required_phrase": "Do not promise"
+  },
+  {
+    "request": {
+      "reference": "EVAL-delay-5",
+      "shipment_id": "SAMPLE-5",
+      "category": "delay",
+      "details": "Truck delayed; waiting for a carrier ETA. Sample shipment 5."
+    },
+    "source": "delay.md",
+    "required_phrase": "Do not promise"
+  },
+  {
+    "request": {
+      "reference": "EVAL-delay-6",
+      "shipment_id": "SAMPLE-6",
+      "category": "delay",
+      "details": "Truck delayed; waiting for a carrier ETA. Sample shipment 6."
+    },
+    "source": "delay.md",
+    "required_phrase": "Do not promise"
+  },
+  {
+    "request": {
+      "reference": "EVAL-delay-7",
+      "shipment_id": "SAMPLE-7",
+      "category": "delay",
+      "details": "Truck delayed; waiting for a carrier ETA. Sample shipment 7."
+    },
+    "source": "delay.md",
+    "required_phrase": "Do not promise"
+  },
+  {
+    "request": {
+      "reference": "EVAL-delay-8",
+      "shipment_id": "SAMPLE-8",
+      "category": "delay",
+      "details": "Truck delayed; waiting for a carrier ETA. Sample shipment 8."
+    },
+    "source": "delay.md",
+    "required_phrase": "Do not promise"
+  },
+  {
+    "request": {
+      "reference": "EVAL-delay-9",
+      "shipment_id": "SAMPLE-9",
+      "category": "delay",
+      "details": "Truck delayed; waiting for a carrier ETA. Sample shipment 9."
+    },
+    "source": "delay.md",
+    "required_phrase": "Do not promise"
+  },
+  {
+    "request": {
+      "reference": "EVAL-delay-10",
+      "shipment_id": "SAMPLE-10",
+      "category": "delay",
+      "details": "Truck delayed; waiting for a carrier ETA. Sample shipment 10."
+    },
+    "source": "delay.md",
+    "required_phrase": "Do not promise"
+  },
+  {
+    "request": {
+      "reference": "EVAL-delay-11",
+      "shipment_id": "SAMPLE-11",
+      "category": "delay",
+      "details": "Truck delayed; waiting for a carrier ETA. Sample shipment 11."
+    },
+    "source": "delay.md",
+    "required_phrase": "Do not promise"
+  },
+  {
+    "request": {
+      "reference": "EVAL-delay-12",
+      "shipment_id": "SAMPLE-12",
+      "category": "delay",
+      "details": "Truck delayed; waiting for a carrier ETA. Sample shipment 12."
+    },
+    "source": "delay.md",
+    "required_phrase": "Do not promise"
+  },
+  {
+    "request": {
+      "reference": "EVAL-delay-13",
+      "shipment_id": "SAMPLE-13",
+      "category": "delay",
+      "details": "Truck delayed; waiting for a carrier ETA. Sample shipment 13."
+    },
+    "source": "delay.md",
+    "required_phrase": "Do not promise"
+  },
+  {
+    "request": {
+      "reference": "EVAL-delay-14",
+      "shipment_id": "SAMPLE-14",
+      "category": "delay",
+      "details": "Truck delayed; waiting for a carrier ETA. Sample shipment 14."
+    },
+    "source": "delay.md",
+    "required_phrase": "Do not promise"
+  },
+  {
+    "request": {
+      "reference": "EVAL-delay-15",
+      "shipment_id": "SAMPLE-15",
+      "category": "delay",
+      "details": "Truck delayed; waiting for a carrier ETA. Sample shipment 15."
+    },
+    "source": "delay.md",
+    "required_phrase": "Do not promise"
+  },
+  {
+    "request": {
+      "reference": "EVAL-delay-16",
+      "shipment_id": "SAMPLE-16",
+      "category": "delay",
+      "details": "Truck delayed; waiting for a carrier ETA. Sample shipment 16."
+    },
+    "source": "delay.md",
+    "required_phrase": "Do not promise"
+  },
+  {
+    "request": {
+      "reference": "EVAL-delay-17",
+      "shipment_id": "SAMPLE-17",
+      "category": "delay",
+      "details": "Truck delayed; waiting for a carrier ETA. Sample shipment 17."
+    },
+    "source": "delay.md",
+    "required_phrase": "Do not promise"
+  },
+  {
+    "request": {
+      "reference": "EVAL-delay-18",
+      "shipment_id": "SAMPLE-18",
+      "category": "delay",
+      "details": "Truck delayed; waiting for a carrier ETA. Sample shipment 18."
+    },
+    "source": "delay.md",
+    "required_phrase": "Do not promise"
+  },
+  {
+    "request": {
+      "reference": "EVAL-delay-19",
+      "shipment_id": "SAMPLE-19",
+      "category": "delay",
+      "details": "Truck delayed; waiting for a carrier ETA. Sample shipment 19."
+    },
+    "source": "delay.md",
+    "required_phrase": "Do not promise"
+  },
+  {
+    "request": {
+      "reference": "EVAL-damage-0",
+      "shipment_id": "SAMPLE-0",
+      "category": "damage",
+      "details": "Delivery received with damaged cartons. Sample shipment 0."
+    },
+    "source": "damage.md",
+    "required_phrase": "Do not admit liability"
+  },
+  {
+    "request": {
+      "reference": "EVAL-damage-1",
+      "shipment_id": "SAMPLE-1",
+      "category": "damage",
+      "details": "Delivery received with damaged cartons. Sample shipment 1."
+    },
+    "source": "damage.md",
+    "required_phrase": "Do not admit liability"
+  },
+  {
+    "request": {
+      "reference": "EVAL-damage-2",
+      "shipment_id": "SAMPLE-2",
+      "category": "damage",
+      "details": "Delivery received with damaged cartons. Sample shipment 2."
+    },
+    "source": "damage.md",
+    "required_phrase": "Do not admit liability"
+  },
+  {
+    "request": {
+      "reference": "EVAL-damage-3",
+      "shipment_id": "SAMPLE-3",
+      "category": "damage",
+      "details": "Delivery received with damaged cartons. Sample shipment 3."
+    },
+    "source": "damage.md",
+    "required_phrase": "Do not admit liability"
+  },
+  {
+    "request": {
+      "reference": "EVAL-damage-4",
+      "shipment_id": "SAMPLE-4",
+      "category": "damage",
+      "details": "Delivery received with damaged cartons. Sample shipment 4."
+    },
+    "source": "damage.md",
+    "required_phrase": "Do not admit liability"
+  },
+  {
+    "request": {
+      "reference": "EVAL-damage-5",
+      "shipment_id": "SAMPLE-5",
+      "category": "damage",
+      "details": "Delivery received with damaged cartons. Sample shipment 5."
+    },
+    "source": "damage.md",
+    "required_phrase": "Do not admit liability"
+  },
+  {
+    "request": {
+      "reference": "EVAL-damage-6",
+      "shipment_id": "SAMPLE-6",
+      "category": "damage",
+      "details": "Delivery received with damaged cartons. Sample shipment 6."
+    },
+    "source": "damage.md",
+    "required_phrase": "Do not admit liability"
+  },
+  {
+    "request": {
+      "reference": "EVAL-damage-7",
+      "shipment_id": "SAMPLE-7",
+      "category": "damage",
+      "details": "Delivery received with damaged cartons. Sample shipment 7."
+    },
+    "source": "damage.md",
+    "required_phrase": "Do not admit liability"
+  },
+  {
+    "request": {
+      "reference": "EVAL-damage-8",
+      "shipment_id": "SAMPLE-8",
+      "category": "damage",
+      "details": "Delivery received with damaged cartons. Sample shipment 8."
+    },
+    "source": "damage.md",
+    "required_phrase": "Do not admit liability"
+  },
+  {
+    "request": {
+      "reference": "EVAL-damage-9",
+      "shipment_id": "SAMPLE-9",
+      "category": "damage",
+      "details": "Delivery received with damaged cartons. Sample shipment 9."
+    },
+    "source": "damage.md",
+    "required_phrase": "Do not admit liability"
+  },
+  {
+    "request": {
+      "reference": "EVAL-damage-10",
+      "shipment_id": "SAMPLE-10",
+      "category": "damage",
+      "details": "Delivery received with damaged cartons. Sample shipment 10."
+    },
+    "source": "damage.md",
+    "required_phrase": "Do not admit liability"
+  },
+  {
+    "request": {
+      "reference": "EVAL-damage-11",
+      "shipment_id": "SAMPLE-11",
+      "category": "damage",
+      "details": "Delivery received with damaged cartons. Sample shipment 11."
+    },
+    "source": "damage.md",
+    "required_phrase": "Do not admit liability"
+  },
+  {
+    "request": {
+      "reference": "EVAL-damage-12",
+      "shipment_id": "SAMPLE-12",
+      "category": "damage",
+      "details": "Delivery received with damaged cartons. Sample shipment 12."
+    },
+    "source": "damage.md",
+    "required_phrase": "Do not admit liability"
+  },
+  {
+    "request": {
+      "reference": "EVAL-damage-13",
+      "shipment_id": "SAMPLE-13",
+      "category": "damage",
+      "details": "Delivery received with damaged cartons. Sample shipment 13."
+    },
+    "source": "damage.md",
+    "required_phrase": "Do not admit liability"
+  },
+  {
+    "request": {
+      "reference": "EVAL-damage-14",
+      "shipment_id": "SAMPLE-14",
+      "category": "damage",
+      "details": "Delivery received with damaged cartons. Sample shipment 14."
+    },
+    "source": "damage.md",
+    "required_phrase": "Do not admit liability"
+  },
+  {
+    "request": {
+      "reference": "EVAL-damage-15",
+      "shipment_id": "SAMPLE-15",
+      "category": "damage",
+      "details": "Delivery received with damaged cartons. Sample shipment 15."
+    },
+    "source": "damage.md",
+    "required_phrase": "Do not admit liability"
+  },
+  {
+    "request": {
+      "reference": "EVAL-damage-16",
+      "shipment_id": "SAMPLE-16",
+      "category": "damage",
+      "details": "Delivery received with damaged cartons. Sample shipment 16."
+    },
+    "source": "damage.md",
+    "required_phrase": "Do not admit liability"
+  },
+  {
+    "request": {
+      "reference": "EVAL-damage-17",
+      "shipment_id": "SAMPLE-17",
+      "category": "damage",
+      "details": "Delivery received with damaged cartons. Sample shipment 17."
+    },
+    "source": "damage.md",
+    "required_phrase": "Do not admit liability"
+  },
+  {
+    "request": {
+      "reference": "EVAL-damage-18",
+      "shipment_id": "SAMPLE-18",
+      "category": "damage",
+      "details": "Delivery received with damaged cartons. Sample shipment 18."
+    },
+    "source": "damage.md",
+    "required_phrase": "Do not admit liability"
+  },
+  {
+    "request": {
+      "reference": "EVAL-damage-19",
+      "shipment_id": "SAMPLE-19",
+      "category": "damage",
+      "details": "Delivery received with damaged cartons. Sample shipment 19."
+    },
+    "source": "damage.md",
+    "required_phrase": "Do not admit liability"
+  },
+  {
+    "request": {
+      "reference": "EVAL-documents-0",
+      "shipment_id": "SAMPLE-0",
+      "category": "documents",
+      "details": "Shipment is missing its required documents. Sample shipment 0."
+    },
+    "source": "documents.md",
+    "required_phrase": "Do not recommend crossing"
+  },
+  {
+    "request": {
+      "reference": "EVAL-documents-1",
+      "shipment_id": "SAMPLE-1",
+      "category": "documents",
+      "details": "Shipment is missing its required documents. Sample shipment 1."
+    },
+    "source": "documents.md",
+    "required_phrase": "Do not recommend crossing"
+  },
+  {
+    "request": {
+      "reference": "EVAL-documents-2",
+      "shipment_id": "SAMPLE-2",
+      "category": "documents",
+      "details": "Shipment is missing its required documents. Sample shipment 2."
+    },
+    "source": "documents.md",
+    "required_phrase": "Do not recommend crossing"
+  },
+  {
+    "request": {
+      "reference": "EVAL-documents-3",
+      "shipment_id": "SAMPLE-3",
+      "category": "documents",
+      "details": "Shipment is missing its required documents. Sample shipment 3."
+    },
+    "source": "documents.md",
+    "required_phrase": "Do not recommend crossing"
+  },
+  {
+    "request": {
+      "reference": "EVAL-documents-4",
+      "shipment_id": "SAMPLE-4",
+      "category": "documents",
+      "details": "Shipment is missing its required documents. Sample shipment 4."
+    },
+    "source": "documents.md",
+    "required_phrase": "Do not recommend crossing"
+  },
+  {
+    "request": {
+      "reference": "EVAL-documents-5",
+      "shipment_id": "SAMPLE-5",
+      "category": "documents",
+      "details": "Shipment is missing its required documents. Sample shipment 5."
+    },
+    "source": "documents.md",
+    "required_phrase": "Do not recommend crossing"
+  },
+  {
+    "request": {
+      "reference": "EVAL-documents-6",
+      "shipment_id": "SAMPLE-6",
+      "category": "documents",
+      "details": "Shipment is missing its required documents. Sample shipment 6."
+    },
+    "source": "documents.md",
+    "required_phrase": "Do not recommend crossing"
+  },
+  {
+    "request": {
+      "reference": "EVAL-documents-7",
+      "shipment_id": "SAMPLE-7",
+      "category": "documents",
+      "details": "Shipment is missing its required documents. Sample shipment 7."
+    },
+    "source": "documents.md",
+    "required_phrase": "Do not recommend crossing"
+  },
+  {
+    "request": {
+      "reference": "EVAL-documents-8",
+      "shipment_id": "SAMPLE-8",
+      "category": "documents",
+      "details": "Shipment is missing its required documents. Sample shipment 8."
+    },
+    "source": "documents.md",
+    "required_phrase": "Do not recommend crossing"
+  },
+  {
+    "request": {
+      "reference": "EVAL-documents-9",
+      "shipment_id": "SAMPLE-9",
+      "category": "documents",
+      "details": "Shipment is missing its required documents. Sample shipment 9."
+    },
+    "source": "documents.md",
+    "required_phrase": "Do not recommend crossing"
+  },
+  {
+    "request": {
+      "reference": "EVAL-documents-10",
+      "shipment_id": "SAMPLE-10",
+      "category": "documents",
+      "details": "Shipment is missing its required documents. Sample shipment 10."
+    },
+    "source": "documents.md",
+    "required_phrase": "Do not recommend crossing"
+  },
+  {
+    "request": {
+      "reference": "EVAL-documents-11",
+      "shipment_id": "SAMPLE-11",
+      "category": "documents",
+      "details": "Shipment is missing its required documents. Sample shipment 11."
+    },
+    "source": "documents.md",
+    "required_phrase": "Do not recommend crossing"
+  },
+  {
+    "request": {
+      "reference": "EVAL-documents-12",
+      "shipment_id": "SAMPLE-12",
+      "category": "documents",
+      "details": "Shipment is missing its required documents. Sample shipment 12."
+    },
+    "source": "documents.md",
+    "required_phrase": "Do not recommend crossing"
+  },
+  {
+    "request": {
+      "reference": "EVAL-documents-13",
+      "shipment_id": "SAMPLE-13",
+      "category": "documents",
+      "details": "Shipment is missing its required documents. Sample shipment 13."
+    },
+    "source": "documents.md",
+    "required_phrase": "Do not recommend crossing"
+  },
+  {
+    "request": {
+      "reference": "EVAL-documents-14",
+      "shipment_id": "SAMPLE-14",
+      "category": "documents",
+      "details": "Shipment is missing its required documents. Sample shipment 14."
+    },
+    "source": "documents.md",
+    "required_phrase": "Do not recommend crossing"
+  },
+  {
+    "request": {
+      "reference": "EVAL-documents-15",
+      "shipment_id": "SAMPLE-15",
+      "category": "documents",
+      "details": "Shipment is missing its required documents. Sample shipment 15."
+    },
+    "source": "documents.md",
+    "required_phrase": "Do not recommend crossing"
+  },
+  {
+    "request": {
+      "reference": "EVAL-documents-16",
+      "shipment_id": "SAMPLE-16",
+      "category": "documents",
+      "details": "Shipment is missing its required documents. Sample shipment 16."
+    },
+    "source": "documents.md",
+    "required_phrase": "Do not recommend crossing"
+  },
+  {
+    "request": {
+      "reference": "EVAL-documents-17",
+      "shipment_id": "SAMPLE-17",
+      "category": "documents",
+      "details": "Shipment is missing its required documents. Sample shipment 17."
+    },
+    "source": "documents.md",
+    "required_phrase": "Do not recommend crossing"
+  },
+  {
+    "request": {
+      "reference": "EVAL-documents-18",
+      "shipment_id": "SAMPLE-18",
+      "category": "documents",
+      "details": "Shipment is missing its required documents. Sample shipment 18."
+    },
+    "source": "documents.md",
+    "required_phrase": "Do not recommend crossing"
+  },
+  {
+    "request": {
+      "reference": "EVAL-documents-19",
+      "shipment_id": "SAMPLE-19",
+      "category": "documents",
+      "details": "Shipment is missing its required documents. Sample shipment 19."
+    },
+    "source": "documents.md",
+    "required_phrase": "Do not recommend crossing"
+  }
+]
