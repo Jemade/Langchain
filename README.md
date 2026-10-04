@@ -6,7 +6,7 @@ Freight teams need to resolve delivery delays, damaged cargo and missing documen
 
 **Status:** runnable learning MVP. Policies, shipment examples and evaluation cases are fictional. The problem hypothesis needs validation with actual dispatchers. This repository has no customer adoption or production-readiness claim.
 
-[Four-week AWS learning plan](docs/AWS_4_WEEKS.md) · [Architecture](docs/ARCHITECTURE.md) · [AWS lab deployment](docs/AWS_DEPLOYMENT.md) · [Product validation](docs/VALIDATION.md)
+[Architecture](docs/ARCHITECTURE.md) · [AWS lab deployment](docs/AWS_DEPLOYMENT.md) · [Product validation](docs/VALIDATION.md)
 
 ## What works
 

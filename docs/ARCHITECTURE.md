@@ -41,5 +41,5 @@ The instance role permits SSM, backup objects under `backups/` and the applicati
 - Category-filtered BM25 is inspectable and adequate for three small policies. Add dense retrieval only when retrieval evaluation shows a concrete recall problem.
 - SQLite keeps the lab understandable and inexpensive. More workers require a shared production checkpointer, a transaction-safe application database and concurrency tests.
 - Human review avoids silently turning an uncertain draft into a customer commitment. It does not prove the review itself is correct.
-- ECS/Fargate is a later migration exercise. Kubernetes is outside this four-week foundation.
+- ECS/Fargate is a later migration exercise. Kubernetes is outside this MVP.
 - The application currently provides traces in persisted state, not a full tracing platform or latency/token dashboards.
