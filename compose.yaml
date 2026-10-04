@@ -1,0 +1,11 @@
+services:
+  desk:
+    build: .
+    ports: ["127.0.0.1:8000:8000"]
+    environment:
+      FREIGHTDESK_TOKEN: ${FREIGHTDESK_TOKEN:?Set FREIGHTDESK_TOKEN}
+      FREIGHTDESK_MODE: demo
+    volumes: ["desk-data:/app/runtime"]
+    restart: unless-stopped
+volumes:
+  desk-data:
