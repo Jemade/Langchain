@@ -24,6 +24,8 @@ class Request(BaseModel):
     @field_validator("shipment_id", "details", mode="before")
     @classmethod
     def trim(cls, value):
+        if not isinstance(value, str):
+            raise ValueError("expected a string")
         value = value.strip()
         if not value:
             raise ValueError("blank value")
@@ -43,7 +45,8 @@ class Review(BaseModel):
 
 
 def create_app(directory=None, policies=None, token=None, model=None):
-    token = token or os.getenv("FREIGHTDESK_TOKEN")
+    if token is None:
+        token = os.getenv("FREIGHTDESK_TOKEN")
     if not token or len(token) < 16 or token == "replace-with-random-token":
         raise RuntimeError("Set FREIGHTDESK_TOKEN to a random value of at least 16 characters")
     directory = Path(directory or os.getenv("FREIGHTDESK_DATA", "runtime"))
